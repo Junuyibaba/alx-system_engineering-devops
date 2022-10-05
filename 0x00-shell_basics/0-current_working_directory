@@ -1,4 +1,3 @@
 #!/bin/bash
-print working directory
-pwd
+echo"pwd"
 
