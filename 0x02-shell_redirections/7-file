@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Holberton School" > '\*\\'\''"Holberton School"\'\''\\*$\?\*\*\*\*\*:)'
+echo "0x02-shell_redirections" > '\*\\'\''"0x02-shell_redirections"\'\''\\*$\?\*\*\*\*\*:)'
